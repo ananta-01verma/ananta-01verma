@@ -3,7 +3,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ananta Verma</h1>
 <h3 align="center">An enthusiastic Computer Science Student</h3>
 
-- 🔭 I’m currently working on App Development  
+- 🔭 I’m currently working on Full stack Development  
 - 🌱 I’m currently learning more about **App Development and DSA**  
 - 📚 *I love to explore new technologies in the world of Tech*  
 - 📫 How to reach me:  
