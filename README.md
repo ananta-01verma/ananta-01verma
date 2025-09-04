@@ -2,11 +2,12 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ananta Verma</h1>
 <h3 align="center">An enthusiastic Computer Science Student</h3>
-Hi there , I am Ananta Verma An enthusiastic Computer Science Student 
-🔭 I’m currently working on Full Stack Development 
-🌱 I’m currently learning more about Full Stack Development and DSA 
-📚 I love to explore new technologies in the world of Tech 
-📫 How to reach me: veananta04@gmail.cpm
+
+- 🔭 Enthusiastic Computer Science Student  
+- 🌱 Currently diving deep into **Full Stack Development**  
+- 📚 Expanding knowledge in **DSA** and exploring new tech trends  
+- 📫 How to reach me:  
+  [![Gmail Badge](https://img.shields.io/badge/-veananta04@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:veananta04@gmail.com)](mailto:veananta04@gmail.com)
 
 ---
 
@@ -49,3 +50,4 @@ Hi there , I am Ananta Verma An enthusiastic Computer Science Student
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananta-01verma&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </p>
 </details>
+
