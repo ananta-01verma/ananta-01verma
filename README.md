@@ -3,9 +3,9 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ananta Verma</h1>
 <h3 align="center">An enthusiastic Computer Science Student</h3>
 
-- 🔭 Enthusiastic Computer Science Student  
-- 🌱 Currently diving deep into **Full Stack Development**  
-- 📚 Expanding knowledge in **DSA** and exploring new tech trends  
+- 🔭  Currently diving deep into **Full Stack Development**    
+- 🌱 Expanding knowledge in **DSA** and exploring new tech trends 
+- 📚 Passionate about building scalable and innovative solutions   
 - 📫 How to reach me:  
   [![Gmail Badge](https://img.shields.io/badge/-veananta04@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:veananta04@gmail.com)](mailto:veananta04@gmail.com)
 
